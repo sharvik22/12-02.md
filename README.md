@@ -6,7 +6,8 @@
 1.1. Поднимите чистый инстанс MySQL версии 8.0+. Можно использовать локальный сервер или контейнер Docker.
 
 ### Решение 1.1
-![alt text](https://github.com/sharvik22/12-02/blob/main/images/1.png)
+![alt text](https://github.com/sharvik22/12-02.md/blob/main/images/1.png)
+
 ---
 1.2. Создайте учётную запись sys_temp. 
 
