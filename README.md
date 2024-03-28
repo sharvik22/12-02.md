@@ -36,12 +36,10 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.7. Восстановите дамп в базу данных.
 
-### Решение 1.7
-
----
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
 ### Решение 1.8
+![alt text](https://github.com/sharvik22/12-02.md/blob/main/images/1-8.png)
 
 ---
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
@@ -54,6 +52,8 @@ customer         | customer_id
 ```
 ---
 ### Решение 2
+![alt text](https://github.com/sharvik22/12-02.md/blob/main/images/2-1.png)
+![alt text](https://github.com/sharvik22/12-02.md/blob/main/images/2-2.png)
 
 ---
 
